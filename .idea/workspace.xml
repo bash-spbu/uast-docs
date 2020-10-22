@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a992ed9-6a4a-451c-b3eb-28b8bfcad685" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uast-docs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/psi-uast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reactor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scheme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1j8z2vzS8St775TGgItBX5inAGf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a992ed9-6a4a-451c-b3eb-28b8bfcad685" name="Default Changelist" comment="" />
+      <created>1603200302608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603200302608</updated>
+      <workItem from="1603200303642" duration="49480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="835" y="428" width="489" height="199" key="Github.ShareDialog" timestamp="1603402566412">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="835" y="428" width="489" height="199" key="Github.ShareDialog/0.0.1920.1056@0.0.1920.1056" timestamp="1603402566412" />
+    <state x="779" y="205" key="Github.UntrackedFilesDialog" timestamp="1603402579974">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="779" y="205" key="Github.UntrackedFilesDialog/0.0.1920.1056@0.0.1920.1056" timestamp="1603402579974" />
+    <state x="548" y="274" key="IDE.errors.dialog" timestamp="1603200370686">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="548" y="274" key="IDE.errors.dialog/0.0.1920.1056@0.0.1920.1056" timestamp="1603200370686" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1603201941852">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1056@0.0.1920.1056" timestamp="1603201941852" />
+    <state x="623" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1603393106811">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="623" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1056@0.0.1920.1056" timestamp="1603393106811" />
+  </component>
+</project>
